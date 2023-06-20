@@ -12,11 +12,14 @@ Esses commits auxiliarão você e sua equipe a entenderem de forma facilitada qu
 
 Essa identificação ocorre por meio de uma palavra e emoji que identifica se aquele commit realizado se trata de uma alteração de código, atualização de pacotes, documentação, alteração de visual, teste...
 
-## 📚 Ebook
+- `bugfix/your-branch-name` - Como o próprio nome já diz, é um BUG e precisa ser corrigido de forma imediata, quanto antes.
+   
+- `feature/your-branch-name` - Uma nova feature que será adicionada ao projeto, componente e afins.
+  
+- `hotfix/your-branch-name` - Ele é bem similar ao bugfix/, porém, ele não é um BUG, mas sim uma correção, seja ela de cor, textos, alterações não tão urgentes, que não signifiquem BUG's.
+  
+- `improvement/your-branch-name` - Em si é uma melhoria para um já existente, seja de performance, de escrita, de layout, etc.
 
-> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Mas você pode me ajudar comprando o ebook "eFront" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. O ebook é completo e cobre tecnologias mais requisitados do mercado como HTML, CSS, JavaScript, Sass, Bootstrap, React, React Router, TypeScript, styled-components, Tailwind CSS, React Hook Form, Radix UI, Storybook, Cypress, Next.js e muito mais. O valor é R$20,00 e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
-
-- eFront - Estudando frontend do zero. [Clique aqui para comprar](https://iuricode.com/efront)
 
 ## 🦄 Tipo e Descrição
 
