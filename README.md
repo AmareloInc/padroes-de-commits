@@ -24,6 +24,13 @@ Essa identificação ocorre por meio de uma palavra e emoji que identifica se aq
 - `improvement/your-branch-name` - Em si é uma melhoria para um já existente, seja de performance, de escrita, de layout, etc.
 
 
+## ✨ Regras de branch
+
+- Trabalha uma branch por funcao. 
+- A gente so trabalha uma ou duas funcoes no maximo por vez
+- No maximo 4-5 branches. 
+- So merge quando terminar a funcao. 
+
 ## 🦄 Tipo e Descrição
 
 O commit semântico possui os elementos estruturais abaixo (tipos), que informam a intenção do seu commit ao utilizador(a) de seu código.
